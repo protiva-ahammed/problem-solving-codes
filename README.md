@@ -1,4 +1,32 @@
-# NeetCode Solutions
+
+# Problem Solving , NeetCode Solutions
+Algorithmic problem solutions in Python
+
+## Competitive Programming Background
+- National Girls Programming Contest (NGPC) 2019
+- Ada Lovelace Programming Contest 2022
+- Ada Lovelace Datathon 2021
+- 60+ individual online contests
+- Platforms: Codeforces, LeetCode, NeetCode
+
+ Focus: Systematic pattern-based practice targeting 
+
+## Patterns Covered
+- Arrays & HashMap
+- Sliding Window
+- Two Pointers
+- Stack & Queue
+- Linked Lists
+- Binary Search
+- Dynamic Programming (in progress)
+
+## Languages
+- Python (current practice)
+- Java (available on request)
+
+## Resources
+- NeetCode.io roadmap
+- LeetCode
 
 ## Repository structure
 
@@ -21,20 +49,3 @@ Python For Beginners/python-hello-world/submission-0.py
 
 ---
 
-## Supported languages
-
-| Language | Extension |
-|---|---|
-| Python | `.py` |
-| JavaScript | `.js` |
-| TypeScript | `.ts` |
-| Java | `.java` |
-| C++ | `.cpp` |
-| C# | `.cs` |
-| Go | `.go` |
-| Rust | `.rs` |
-| Kotlin | `.kt` |
-| Swift | `.swift` |
-| SQL | `.sql` |
-
----
